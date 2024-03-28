@@ -1,4 +1,7 @@
 This is my feature branch
 
 
-Some more features to adid
+Some more features to add
+
+
+Added some more features
